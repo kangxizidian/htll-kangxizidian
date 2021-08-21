@@ -1,2 +1,2 @@
-# htll-kangxizidian
-kangxizidian in htll format
+# 康熙字典 htll 格式
+
