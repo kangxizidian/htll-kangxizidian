@@ -15,7 +15,7 @@ const header=`<!DOCTYPE html><html lang="en">
 <link rel='stylesheet' href='kxzd.css'>
 <script defer src='kxzd.js'></script>
 <body>`
-files.length=1;
+//files.length=1;
 const fileWordheads={};
 
 files.forEach(file=>{
